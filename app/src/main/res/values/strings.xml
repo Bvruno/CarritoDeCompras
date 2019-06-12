@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CarritoDeCompras</string>
+    <string name="bienvenidos_al_sistema">Bienvenidos al Sistema</string>
+    <string name="mantenimiento_de_productos">Mantenimiento de productos</string>
+    <string name="acceder">ACCEDER</string>
+</resources>
